@@ -37,7 +37,7 @@ export default function Contact() {
 
             {/* CTA Button */}
             <a
-              href="mailto:hello@ardhiwebstudio.com"
+              href="mailto:ardhiweb99@gmail.com"
               className="group flex h-28 w-28 shrink-0 items-center justify-center rounded-full bg-black text-center text-sm font-medium text-white transition-all duration-300 hover:scale-105 md:h-36 md:w-36"
             >
               <span>
@@ -63,7 +63,7 @@ export default function Contact() {
             </p>
 
             <a
-              href="mailto:hello@ardhiwebstudio.com"
+              href="mailto:ardhiweb99@gmail.com"
               className="mt-3 inline-block text-sm font-medium transition-colors hover:text-gray-500"
             >
               ardhiweb99@gmail.com

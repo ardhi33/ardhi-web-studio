@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section className="relative flex min-h-screen items-center overflow-hidden px-6 pt-32 md:px-10">
       {/* Background Decoration */}
-      <div className="pointer-events-none absolute -right-40 top-40 h-96 w-96 rounded-full bg-gray-100 blur-3xl" />
+      <div className="pointer-events-none absolute -right-40 top-40 h-96 w-96 " />
 
       <div className="mx-auto grid w-full max-w-7xl items-center gap-16 lg:grid-cols-2">
         {/* Left Content */}
@@ -15,7 +15,7 @@ export default function Hero() {
           </div>
 
           {/* Heading */}
-          <h1 className="max-w-4xl text-5xl font-semibold leading-[1.05] tracking-[-0.04em] text-yellow-400 sm:text-6xl md:text-7xl lg:text-8xl">
+          <h1 className="max-w-4xl text-5xl font-semibold leading-[1.05] tracking-[-0.04em] text-white-400 sm:text-6xl md:text-7xl lg:text-8xl">
             I build
             <br />
             <span className="text-gray-400">digital experiences.</span>
@@ -31,7 +31,7 @@ export default function Hero() {
               <span className="transition-transform duration-300 group-hover:translate-x-1">→</span>
             </a>
 
-            <a href="#contact" className="rounded-full border border-gray-200 px-6 py-3.5 text-sm font-medium text-yellow-400 transition-all duration-300 hover:border-black">
+            <a href="#contact" className="rounded-full border border-gray-200 px-6 py-3.5 text-sm font-medium text-white-400 transition-all duration-300 hover:border-black">
               Let's Talk
             </a>
           </div>
@@ -39,7 +39,7 @@ export default function Hero() {
           {/* Small Info */}
           <div className="mt-14 flex items-center gap-8 border-t border-gray-200 pt-6">
             <div>
-              <p className="text-2xl font-semibold tracking-tight">5+</p>
+              <p className="text-2xl font-semibold tracking-tight">3</p>
 
               <p className="mt-1 text-xs text-gray-500">Projects</p>
             </div>
