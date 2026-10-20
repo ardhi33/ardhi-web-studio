@@ -39,7 +39,7 @@ export default function Hero() {
           {/* Small Info */}
           <div className="mt-14 flex items-center gap-8 border-t border-gray-200 pt-6">
             <div>
-              <p className="text-2xl font-semibold tracking-tight">3</p>
+              <p className="text-2xl font-semibold tracking-tight">5+</p>
 
               <p className="mt-1 text-xs text-gray-500">Projects</p>
             </div>

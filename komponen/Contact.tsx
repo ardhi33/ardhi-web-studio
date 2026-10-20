@@ -79,7 +79,7 @@ export default function Contact() {
             <div className="mt-3 flex gap-5">
 
               <a
-                href="#"
+                href="https://www.instagram.com/ardhi.web?mdxt=MTlpcGQwNTdjd3Q0Zg=="
                 className="text-sm font-medium transition-colors hover:text-gray-500"
               >
                 Instagram
@@ -92,12 +92,12 @@ export default function Contact() {
                 GitHub
               </a>
 
-              <a
+              {/* <a
                 href="#"
                 className="text-sm font-medium transition-colors hover:text-gray-500"
               >
                 LinkedIn
-              </a>
+              </a> */}
 
             </div>
           </div>

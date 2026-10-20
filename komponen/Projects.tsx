@@ -1,7 +1,7 @@
 const projects = [
   {
     number: "01",
-    title: "Coffee Shop Website",
+    title: "Coffee Shop Website (personal project)",
     description:
       "A modern and responsive website designed for a coffee shop with a clean and engaging user experience.",
     technologies: ["Next.js", "Node.js", "Tailwind CSS"],
@@ -10,16 +10,16 @@ const projects = [
   },
   {
     number: "02",
-    title: "Portfolio Website",
+    title: "Web Rekapitulasi Pelanggaran Siswa",
     description:
       "A minimal personal portfolio website designed to showcase creative work, skills, and digital experiences.",
-    technologies: ["Next.js", "React", "Tailwind CSS"],
-    image: "/projects/portfolio-web.png",
-    link: "#",
+    technologies: ["Next.js", "React", "Tailwind CSS, Database"],
+    image: "/projects/sikap.png",
+    link: "https://sikap-rho.vercel.app/",
   },
   {
     number: "03",
-    title: "Business Website",
+    title: "Business Website (personal project)",
     description:
       "A professional business website focused on clear communication, responsive design, and a simple user experience.",
     technologies: ["React", "TypeScript", "CSS"],
